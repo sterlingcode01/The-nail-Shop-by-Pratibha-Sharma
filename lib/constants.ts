@@ -1,0 +1,11 @@
+export const PHONE_1 = '+91 98883 33965';
+export const PHONE_2 = '+91 91156 56966';
+export const PHONE_1_LINK = 'tel:+919888333965';
+export const PHONE_2_LINK = 'tel:+919115656966';
+export const EMAIL = 'Pratibhanails@gmail.com';
+export const WHATSAPP = 'https://wa.me/919888333965';
+export const WHATSAPP_HOME_SERVICE = 'https://wa.me/919888333965?text=Hi%2C%20I%20would%20like%20to%20book%20a%20home%20service';
+export const WHATSAPP_BOOKING = 'https://wa.me/919888333965?text=Hi%2C%20I%20would%20like%20to%20book%20an%20appointment';
+export const STORE_HOURS = '10:30 AM – 8:30 PM';
+export const ADDRESS = 'Shop S-19, 2nd Floor, Near Burger King, Amrapali Circle, Vaishali Nagar, Jaipur';
+export const MAP_EMBED_URL = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3557.3!2d75.7488!3d26.9124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDU0JzQ0LjciTiA3NcKwNDQnNTUuNyJF!5e0!3m2!1sen!2sin!4v1';
